@@ -38,7 +38,7 @@ c, Usage guide.
 d, Contribution guidlines.
 e, License information.
 f Contact information.
-g. Acknowledgments and Credits
+g. Acknowledgments and Credits.
 README encourages contribution and ensures clarity to everyone who wants to be involved on the project.
 
 
